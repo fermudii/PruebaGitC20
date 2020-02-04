@@ -2,3 +2,5 @@ function int distancia(int x,int y){
 
 return x*y
 }
+
+Hola amiwo
