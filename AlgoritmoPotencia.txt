@@ -1,0 +1,3 @@
+function int algoritmoPotencia (int a,int b)
+inicio
+fin
